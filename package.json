@@ -27,8 +27,8 @@
   },
   "proxy": "http://localhost:5000",
   "scripts": {
-    "start": "npm start",
-    "build": "npm run build",
+    "start": "react-scripts start",
+    "build": "npm i",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
